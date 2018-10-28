@@ -17,3 +17,8 @@
 * Текст и рисунок диаграммы классов:
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма%20классов.png)
+
+# Лабораторная работа №2
+
+* IDEF0 (png)
+![none](https://github.com/vanya97/IDB-15-13/blob/master/2.PNG)
