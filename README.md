@@ -13,6 +13,7 @@ IDEF0-диаграмма в развернутом виде:
 Текст и рисунок диаграммы классов
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма.png)
+
 Текст и рисунок диаграммы классов
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма%20классов.png)
