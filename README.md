@@ -22,3 +22,5 @@
 
 * IDEF0-диаграмма 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/2.PNG)
+
+# Лабораторная работа №3
