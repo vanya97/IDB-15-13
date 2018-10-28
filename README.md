@@ -20,5 +20,5 @@
 
 # Лабораторная работа №2
 
-* IDEF0 (png)
+*  IDFE0-диаграмма 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/2.PNG)
