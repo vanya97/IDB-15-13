@@ -23,4 +23,7 @@
 * IDEF0-диаграмма 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/2.PNG)
 
+* Текст и рисунок диаграммы классов:
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма%20классов.png)
 # Лабораторная работа №3
