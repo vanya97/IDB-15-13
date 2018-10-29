@@ -27,3 +27,15 @@
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма%20классов.png)
 # Лабораторная работа №3
+
+* DFD A1. Определение требований к проекту
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/3.PNG)
+
+* DFD A2. Написание сайта
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/4.PNG)
+
+* DFD A3. Тестирование проекта
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/5.PNG)
