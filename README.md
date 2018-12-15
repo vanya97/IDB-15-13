@@ -68,3 +68,21 @@
 * Определение допустимых видов хранилищ и их размещения:
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/15.PNG)
+
+## Завершение идентификации всех потоков
+
+* Построение ERD-диаграммы для всех потоков
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/str.png)
+
+* Построение ERD-диаграммы для всех ролей
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/roles.png)
+
+* Построение ERD-диаграммы для всех модулей
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/mdls.png)
+
+
+
+
