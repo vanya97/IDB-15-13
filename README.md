@@ -83,6 +83,10 @@
 
 ![none](https://github.com/vanya97/IDB-15-13/blob/master/mdls.png)
 
+* Диаграмма последовательностей
+
+![none](https://github.com/vanya97/IDB-15-13/blob/master/Диаграмма%20последовательностей.png)
+
 
 
 
